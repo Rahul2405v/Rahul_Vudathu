@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/Rahul_Vudathu/static/css/main.21e2389b.css",
+    "main.js": "/Rahul_Vudathu/static/js/main.ac1bc682.js",
+    "static/js/453.6a54098e.chunk.js": "/Rahul_Vudathu/static/js/453.6a54098e.chunk.js",
+    "static/media/img.jpg": "/Rahul_Vudathu/static/media/img.b053e7b314b67e844623.jpg",
+    "static/media/avatar.png": "/Rahul_Vudathu/static/media/avatar.a962352a294d5564dd2f.png",
+    "static/media/Resume.pdf": "/Rahul_Vudathu/static/media/Resume.201953efd1a0aa44b2b5.pdf",
+    "static/media/gsap.png": "/Rahul_Vudathu/static/media/gsap.d79dadb8f53f2d2b2f30.png",
+    "static/media/users.png": "/Rahul_Vudathu/static/media/users.74b01355fe0a57e94aee.png",
+    "static/media/react.png": "/Rahul_Vudathu/static/media/react.fcd849fc876c90049ae7.png",
+    "static/media/java.png": "/Rahul_Vudathu/static/media/java.48c6b76b462d7350f3c3.png",
+    "static/media/sql.png": "/Rahul_Vudathu/static/media/sql.9de77f61905e7d96c331.png",
+    "static/media/email.png": "/Rahul_Vudathu/static/media/email.7b32cde217de9f8db299.png",
+    "static/media/js.png": "/Rahul_Vudathu/static/media/js.bca60fc9113a606a4d42.png",
+    "static/media/github.png": "/Rahul_Vudathu/static/media/github.05e6a3766217cf41bacf.png",
+    "static/media/css.png": "/Rahul_Vudathu/static/media/css.405a25519c3a52e1eba0.png",
+    "static/media/linkedin.png": "/Rahul_Vudathu/static/media/linkedin.22390205469779c68149.png",
+    "static/media/django.png": "/Rahul_Vudathu/static/media/django.69b44da5c13af7b59fe7.png",
+    "static/media/python.png": "/Rahul_Vudathu/static/media/python.a907122ef783d8f3bcaa.png",
+    "static/media/html.png": "/Rahul_Vudathu/static/media/html.39021e8cb027de8bbe1f.png",
+    "static/media/downarrow.svg": "/Rahul_Vudathu/static/media/downarrow.e882bebe1017ae1d0c7c280340ea6864.svg",
+    "index.html": "/Rahul_Vudathu/index.html",
+    "main.21e2389b.css.map": "/Rahul_Vudathu/static/css/main.21e2389b.css.map",
+    "main.ac1bc682.js.map": "/Rahul_Vudathu/static/js/main.ac1bc682.js.map",
+    "453.6a54098e.chunk.js.map": "/Rahul_Vudathu/static/js/453.6a54098e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21e2389b.css",
+    "static/js/main.ac1bc682.js"
+  ]
+}
